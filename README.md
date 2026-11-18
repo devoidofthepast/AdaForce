@@ -55,7 +55,7 @@ export ADAFORCE_ZFE_DIR=/path/to/zenodo_archive/zfe_modes
 
 ## Trained models and parameters
 
-Trained weights of the three seeds, the bias-correction branch, the shrinkage table, the transferability scores, the EMOS parameters and the ZFE modes are archived on Zenodo (DOI to be added). `README_zenodo.md` in the archive lists where the code expects each file. Product settings used in the paper: α_CFS = 0.5, α_UKMO = 0.25, α_IFS = 0; the branch is closed under IFS and only its SST channel is open under CFSv2 and UKMO.
+Trained weights of the three seeds, the bias-correction branch, the shrinkage table, the transferability scores, the EMOS parameters and the ZFE modes are archived on Zenodo (https://doi.org/10.5281/zenodo.24351150). `README_zenodo.md` in the archive lists where the code expects each file. Product settings used in the paper: α_CFS = 0.5, α_UKMO = 0.25, α_IFS = 0; the branch is closed under IFS and only its SST channel is open under CFSv2 and UKMO.
 
 ## Citation
 
